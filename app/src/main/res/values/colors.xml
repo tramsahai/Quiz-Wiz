@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Vibrant Quiz Colors -->
+    <color name="color_primary">#FF6B8E</color>      <!-- Bright Pink -->
+    <color name="color_primary_dark">#FF4757</color>  <!-- Darker Pink -->
+    <color name="color_true">#2ED573</color>          <!-- Bright Green -->
+    <color name="color_false">#FF4757</color>         <!-- Bright Red -->
+    <color name="color_correct">#2ED573</color>       <!-- Success Green -->
+    <color name="color_wrong">#FF4757</color>         <!-- Error Red -->
+    <color name="color_next">#3742FA</color>          <!-- Bright Blue -->
+    <color name="color_background">#FF6B8E</color>    <!-- Pink Background -->
+</resources>
