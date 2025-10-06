@@ -53,6 +53,7 @@ The application includes 10 diverse questions covering mathematics, science, geo
   - 75-89%: "Excellent! Great job!"
   - 60-74%: "Good Work! Well done!"
   - Below 60%: "Keep Practicing! You'll get better!"
+    
   ![image alt](https://github.com/tramsahai/Quiz-Wiz/blob/46cdbc822c12f514900e11eaedeed80ea9a6f734/Screenshot%202025-10-06%20002802.png)
 
 ### Educational Review System
