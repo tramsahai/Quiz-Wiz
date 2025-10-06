@@ -2,7 +2,6 @@
 
 ## App Overview
 QuizWiz is a vibrant, interactive Android flashcard application built with Kotlin that helps users test their knowledge across various subjects through an engaging true/false quiz format. The app provides instant feedback, score tracking, and comprehensive review features to enhance the learning experience. Designed with modern Android development practices, QuizWiz offers a seamless user journey from welcome screen to final results with educational value at every step.
-![image alt]https://github.com/tramsahai/Quiz-Wiz/blob/d8530c2379a3572c077fcb537ad32c9af44934c3/Screenshot%202025-10-06%20002710.png
 
 ## Assignment Requirements Fulfilled
 
