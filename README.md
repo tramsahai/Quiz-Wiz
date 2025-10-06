@@ -101,6 +101,8 @@ The application guides users through a structured learning path:
 - Android SDK API 24 (Nougat) or higher for compatibility
 - Kotlin plugin installed within the development environment
 
+![image alt](https://github.com/tramsahai/Quiz-Wiz/blob/49d3d118b6e40cab9ce8382bf13fb510653bd20c/Screenshot%202025-10-06%20002613.png)
+
 ### Build Instructions
 1. Clone the repository or create a new Android project
 2. Replace default files with the provided application code
