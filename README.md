@@ -60,6 +60,8 @@ The application includes 10 diverse questions covering mathematics, science, geo
 - Easy navigation enables seamless transition between review and score screens
 - Allows users to learn from their mistakes and reinforce knowledge effectively
 
+![image alt](https://github.com/tramsahai/Quiz-Wiz/blob/f4d9db29d882e99f7f5eb8f6457aecee2c782307/Screenshot%202025-10-06%20002823.png)
+
 ## Technical Implementation
 
 ### MainActivity.kt Core Logic
