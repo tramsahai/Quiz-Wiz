@@ -1,5 +1,5 @@
 # QuizWiz - Interactive Flashcard App
-# YouTube Link => https://youtu.be/u_Rg-5o9bbw
+# YouTube Link => https://youtu.be/F3tDJBbwusk?feature=shared
 
 ## App Overview
 QuizWiz is a vibrant, interactive Android flashcard application built with Kotlin that helps users test their knowledge across various subjects through an engaging true/false quiz format. The app provides instant feedback, score tracking, and comprehensive review features to enhance the learning experience. Designed with modern Android development practices, QuizWiz offers a seamless user journey from welcome screen to final results with educational value at every step.
